@@ -3,6 +3,8 @@
 - tasklist page with tasks with priorities
 - weather api for fetching data for outdoor tasks
 
+## Live Link - https://todo1listapp.netlify.app/
+
 ## Technologies Used
 
 - **Frontend**: React, React Router, Redux Toolkit, Redux Thunk  
